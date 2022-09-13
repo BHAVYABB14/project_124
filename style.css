@@ -1,0 +1,32 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow:5px 5px 5px rgb(35, 7, 247);
+}
+.note{
+    font-size:15px;
+    color: black;
+}
+.copy_right_footer{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border:5px solid white ;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+body{
+    background-size: cover;
+    background-image: url("\66v3yp5Z\412280f6733a435faf1d302737ef5f68.jpg");
+}
+h2{
+color: mediumslateblue;
+background-color:black;
+}
